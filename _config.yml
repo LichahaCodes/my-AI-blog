@@ -4,5 +4,6 @@ theme: just-the-docs
 
 url: https://lichahacodes.github.io/my-AI-blog/
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+last_edit_timestamp: false
+gh_edit_link: false
+back_to_top: false
